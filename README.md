@@ -1,0 +1,1 @@
+En este proyecto se realizo una aplicacion de frases motivacionales utilizando la API de ZenQuotes, como herramientas princiapales se utilizo Copilot y Gemini para generar cada programa, cada uno de nosotros genero uno diferente y documento su parte.
