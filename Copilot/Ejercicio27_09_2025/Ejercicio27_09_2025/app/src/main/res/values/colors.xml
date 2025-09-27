@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores principales de la app -->
+    <color name="primary_blue">#4A90E2</color>
+    <color name="light_blue">#87CEEB</color>
+    <color name="sky_blue">#E3F2FD</color>
+    <color name="light_green">#81C784</color>
+    <color name="mint_green">#B2DFDB</color>
+    <color name="soft_white">#F8F9FA</color>
+    <color name="text_dark">#2C3E50</color>
+    <color name="text_light">#6C757D</color>
+</resources>
